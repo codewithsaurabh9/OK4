@@ -21,6 +21,6 @@
     "dest": "myprofile/wsgi.py"
     }
 ],
-"outputDirectory": "staticfiles_build",
+
 "installCommand": "pip install -r requirements.txt"
 }
